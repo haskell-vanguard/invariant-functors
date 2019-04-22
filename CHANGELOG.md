@@ -1,4 +1,6 @@
-# Next
+# next [????.??.??]
+* Implement `foldMap'` in the `Foldable` instance for `WrappedFunctor` when
+  building with `base-4.13` or later.
 * Only incur a `semigroups` dependency on old GHCs.
 
 # 0.5.1 [2018.07.15]
